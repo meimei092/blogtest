@@ -1,5 +1,5 @@
-title: サイトのタイトル。
-description: サイトの説明文。
+title: GitHub PagesでJekyllの自動ビルドを使ってブログサイトを作るを元にブログを作ってみた。
+description: githubでホームページを作ってみたい！
 baseurl: "/blogtest"
 url: "https://meimei092.github.io"
 markdown: kramdown
